@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=bookname\ x
+comment0.target=void\ borrowBook(java.lang.String,\ int)
+comment1.params=n
+comment1.target=boolean\ memCheck(int)
+numComments=2

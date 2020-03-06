@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=book\ author
+comment0.target=void\ newBook(java.lang.String,\ java.lang.String)
+comment1.params=name\ plan
+comment1.target=void\ newMember(java.lang.String,\ char)
+comment2.params=
+comment2.target=void\ memCode()
+numComments=3

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=table\ column\ criteria\ condition
+comment0.target=void\ allList(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+numComments=1

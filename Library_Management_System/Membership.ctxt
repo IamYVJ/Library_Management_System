@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=membername\ membercode\ task
+comment0.target=void\ alterMembership(java.lang.String,\ java.lang.String,\ boolean)
+numComments=1
